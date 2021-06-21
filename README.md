@@ -27,7 +27,7 @@ http://www.facebook.com/CSZPMIOfficial (Official Fanspage)
 		use one of them ! not both !
 
 //////////////////////////////////////// GAMEPLAY //////////////////////////////////////
-
+```
 All Weapons, Zombie, items that have been purchased will be used for each round in 1 maps only.
 so...every change maps, all weapons, zombies, items & Money will be RESET.
 
@@ -76,9 +76,9 @@ Skill Zombie:
 8. Stamper Zombie: Spawn Coffin (Press G to activate)
 9. Lilith Zombie : Teleport and Fake Health (Press E & R to activate)
 10. Metatronic Zombie : Revival and Fake Health (Press E & R to activate)
-
+```
 //////////////////////////////////////// CREDITS ////////////////////////////////////////
-
+```
 - aureezz
   Developed this mod, scripting, new gameplay, new theme, BOT support addon.
   
@@ -135,9 +135,9 @@ Skill Zombie:
 - Nexon for sound
 - Rajagame Mapper for Map
 - Counter-Strike Zombie Plague Modder Indonesia for support this mod
-
+```
 //////////////////////////////////////// CHANGELOG ////////////////////////////////////////
-
+```
 Changelog V2 (15 Jan 2016)
 + Added new Hero Weapon
    - Quad Barrel
@@ -204,3 +204,4 @@ Changelog V1 (08 Jan 2017)
 + Supplybox (CV4760R, Refill Ammo, Sprint and Bloody Blade 1 Round)
 + Hurt Zombie
 + Support Bot
+```
