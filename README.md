@@ -4,11 +4,7 @@ This mod compatible playing with BOT
 
 "Reborn to Rework"
 
-This mod supported by:
-http://www.facebook.com/groups/CSZPMIOfficial (Official Group)
-http://www.facebook.com/CSZPMIOfficial (Official Fanspage)
-
-//////////////////////////////////////// INSTALATION //////////////////////////////////////
+# INSTALLATION!
 						
 				NB : Required AMXMODX 1.8.2 or Higher
 
@@ -26,7 +22,7 @@ http://www.facebook.com/CSZPMIOfficial (Official Fanspage)
 
 		use one of them ! not both !
 
-//////////////////////////////////////// GAMEPLAY //////////////////////////////////////
+# GAMEPLAY!
 ```
 All Weapons, Zombie, items that have been purchased will be used for each round in 1 maps only.
 so...every change maps, all weapons, zombies, items & Money will be RESET.
@@ -77,7 +73,7 @@ Skill Zombie:
 9. Lilith Zombie : Teleport and Fake Health (Press E & R to activate)
 10. Metatronic Zombie : Revival and Fake Health (Press E & R to activate)
 ```
-//////////////////////////////////////// CREDITS ////////////////////////////////////////
+# CREDITS!
 ```
 - aureezz
   Developed this mod, scripting, new gameplay, new theme, BOT support addon.
@@ -136,7 +132,7 @@ Skill Zombie:
 - Rajagame Mapper for Map
 - Counter-Strike Zombie Plague Modder Indonesia for support this mod
 ```
-//////////////////////////////////////// CHANGELOG ////////////////////////////////////////
+# CHANGELOG!
 ```
 Changelog V2 (15 Jan 2016)
 + Added new Hero Weapon
