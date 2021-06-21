@@ -1,5 +1,4 @@
-Zombie The Hero m4m3ts NextGen 2017 Version
-Developed by aureezz (facebook.com/aureezz)
+# Zombie The Hero m4m3ts NextGen 2017 Version. Developed by aureezz (facebook.com/aureezz)
 
 This mod compatible playing with BOT
 
