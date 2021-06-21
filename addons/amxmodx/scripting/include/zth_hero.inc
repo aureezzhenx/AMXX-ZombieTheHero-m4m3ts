@@ -1,0 +1,1 @@
+native revo_get_user_hero(id)

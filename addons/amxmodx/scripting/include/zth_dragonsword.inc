@@ -1,0 +1,1 @@
+native get_dragonsword(id)

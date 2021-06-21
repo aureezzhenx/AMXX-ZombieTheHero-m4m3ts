@@ -1,0 +1,5 @@
+native give_ds(id)
+native using_ds(id)
+native give_sprint(id)
+native give_bb(id)
+native using_bb(id)

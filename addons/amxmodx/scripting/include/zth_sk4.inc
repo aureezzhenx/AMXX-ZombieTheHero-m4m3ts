@@ -1,0 +1,1 @@
+native give_skull4(id)

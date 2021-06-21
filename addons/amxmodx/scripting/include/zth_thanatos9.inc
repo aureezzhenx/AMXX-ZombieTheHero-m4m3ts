@@ -1,0 +1,1 @@
+native Get_Thanatos9(id)

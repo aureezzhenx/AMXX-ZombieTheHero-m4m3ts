@@ -1,0 +1,1 @@
+native Get_Balrog11(id)

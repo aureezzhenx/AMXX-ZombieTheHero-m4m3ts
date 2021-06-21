@@ -1,0 +1,39 @@
+[en]
+ZP_CSO_COUNTDOWN_NOTICE = Remaining Time For Zombie Infection: %i Second(s)
+ZP_CSO_INFECTION_NOTICE = Zombie Infection!
+ZP_CSO_INFECTED_NOTICE = The Zombies Are Coming!
+ZP_CSO_DMG_LVLUP_NOTICE = Damage Fire Power Level %i!
+ZP_CSO_EVO_LVLUP_NOTICE = Zombie Evolution Level %i!
+
+ZP_CSO_KILL = KILL!
+ZP_CSO_KNIFE = ( KNIFE! )
+ZP_CSO_GRENADE = ( GRENADE! )
+ZP_CSO_HEADSHOT = ( HEADSHOT! )
+
+ZP_CSO_TITLE = Zombie Plague 4.3 CSO
+ZP_CSO_STATS = Stats
+ZP_CSO_KILLTOTAL = Total Kills
+ZP_CSO_POINTTOTAL = Total Points
+
+ZP_CSO_HUMANS = Humans
+ZP_CSO_ZOMBIES = Zombies
+ZP_CSO_ROUNDS = Round
+
+ZP_CSO_ZOMBIERESPAWN_MSG = Remaining Time For Zombie Respawn: %i Second(s)
+ZP_CSO_ZOMBIERESPAWN_MSG2 = You We're Killed By Headshot! Cannot Respawn!
+
+ZP_CSO_DMG_LVL = Damage Level
+ZP_CSO_FIREPOWER = Total Fire Power
+ZP_CSO_EVO_LVL = Evolution Level
+ZP_CSO_EVOLUTION = Zombie Evolution
+ZP_CSO_PERCENT = %i%%
+
+NOTICE_ZOMBIEARRIVE = ZOMBIES ARE COMING!
+NOTICE_EVOLVED = YOU ARE EVOLVED TO LV.%i
+
+TRANSCRIPT_1 = TIP : Stick with other humans to increase your ATK.
+TRANSCRIPT_2 = TIP : Supplies will come. We dont know when but find it!
+TRANSCRIPT_3 = TIP : Try to kill zombie with headshot, they will not revive.
+TRANSCRIPT_4 = TIP : Avoid being killed with headshot, you will not be able to revive
+TRANSCRIPT_5 = TIP : Stand still for some seconds to recover your health.
+TRANSCRIPT_6 = TIP : Random humans will be chosen as 'Sidekick' and 'Hero' with powerful weapons.
